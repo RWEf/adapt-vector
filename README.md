@@ -1,6 +1,6 @@
 # What is Adapt vector?
 
-This is container of vector, It's designed to be fast and adapt adaptable.
+This is container of vector, It's designed to be fast and adaptable.
 
 # environment
 
